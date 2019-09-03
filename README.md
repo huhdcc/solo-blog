@@ -10,6 +10,7 @@ huhdcc
 
 ### 最新
 
+* [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [我在 GitHub 上的开源项目](https://www.huhdcc.top/my-github-repos)
 * [定时任务CRON常用表达式收集](https://www.huhdcc.top/articles/2019/09/01/1567333245085.html)
 * [centos7 阿里云服务器docker安装nexus3](https://www.huhdcc.top/articles/2019/09/01/1567333217431.html)
@@ -29,7 +30,6 @@ huhdcc
 * [JAVA8新特性lambda表达式（时间为空排序）](https://www.huhdcc.top/articles/2019/09/01/1567332821333.html)
 * [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
 * [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
-* [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
 
 ### 热门
 
@@ -44,6 +44,7 @@ huhdcc
 * [Mybatis分析（7）-类型别名解析typeAliasesElement](https://www.huhdcc.top/articles/2019/09/01/1567332454979.html)
 * [Mybatis分析（8）-插件加载pluginElement](https://www.huhdcc.top/articles/2019/09/01/1567332481354.html)
 * [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
+* [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
 
 
 
