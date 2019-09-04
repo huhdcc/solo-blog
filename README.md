@@ -10,6 +10,7 @@ huhdcc
 
 ### 最新
 
+* [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 * [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [我在 GitHub 上的开源项目](https://www.huhdcc.top/my-github-repos)
 * [定时任务CRON常用表达式收集](https://www.huhdcc.top/articles/2019/09/01/1567333245085.html)
@@ -29,7 +30,6 @@ huhdcc
 * [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [JAVA8新特性lambda表达式（时间为空排序）](https://www.huhdcc.top/articles/2019/09/01/1567332821333.html)
 * [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
-* [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
 
 ### 热门
 
@@ -39,6 +39,7 @@ huhdcc
 * [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
 * [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
 * [Mybatis分析（9）-加载工厂对象objectFactoryElement](https://www.huhdcc.top/articles/2019/09/01/1567332498061.html)
+* [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
 * [Mybatis分析（5）-属性解析settings](https://www.huhdcc.top/articles/2019/09/01/1567332399709.html)
 * [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
 * [Mybatis分析（7）-类型别名解析typeAliasesElement](https://www.huhdcc.top/articles/2019/09/01/1567332454979.html)
