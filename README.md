@@ -10,6 +10,10 @@ huhdcc
 
 ### 最新
 
+* [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
+* [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
+* [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
+* [Mybatis分析（10）-加载对象包装器工厂objectWrapperFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567578967567.html)
 * [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 * [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [我在 GitHub 上的开源项目](https://www.huhdcc.top/my-github-repos)
@@ -26,26 +30,26 @@ huhdcc
 * [Maven清理批处理脚本](https://www.huhdcc.top/articles/2019/09/01/1567332969162.html)
 * [强迫症福音-去掉桌面图标小箭头](https://www.huhdcc.top/articles/2019/09/01/1567332948250.html)
 * [jdk环境变量一键配置](https://www.huhdcc.top/articles/2019/09/01/1567332905549.html)
-* [JAVA8新特性lambda表达式（操作两个List）](https://www.huhdcc.top/articles/2019/09/01/1567332862530.html)
-* [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
-* [JAVA8新特性lambda表达式（时间为空排序）](https://www.huhdcc.top/articles/2019/09/01/1567332821333.html)
-* [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
 
 ### 热门
 
 * [微信支付-退款操作（JAVA版）](https://www.huhdcc.top/articles/2019/09/01/1567332589167.html)
+* [Mybatis分析（9）-加载工厂对象objectFactoryElement](https://www.huhdcc.top/articles/2019/09/01/1567332498061.html)
 * [Mybatis分析（1）-SqlSessionFactory](https://www.huhdcc.top/articles/2019/09/01/1567331946937.html)
 * [Mybatis分析（2）-SqlSessionFactoryBuilder](https://www.huhdcc.top/articles/2019/09/01/1567332033694.html)
 * [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
 * [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
-* [Mybatis分析（9）-加载工厂对象objectFactoryElement](https://www.huhdcc.top/articles/2019/09/01/1567332498061.html)
+* [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
 * [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
+* [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
+* [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [Mybatis分析（5）-属性解析settings](https://www.huhdcc.top/articles/2019/09/01/1567332399709.html)
 * [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
 * [Mybatis分析（7）-类型别名解析typeAliasesElement](https://www.huhdcc.top/articles/2019/09/01/1567332454979.html)
 * [Mybatis分析（8）-插件加载pluginElement](https://www.huhdcc.top/articles/2019/09/01/1567332481354.html)
 * [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
-* [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
+* [JAVA8新特性lambda表达式（时间为空排序）](https://www.huhdcc.top/articles/2019/09/01/1567332821333.html)
+* [JAVA8新特性lambda表达式（操作两个List）](https://www.huhdcc.top/articles/2019/09/01/1567332862530.html)
 
 
 
