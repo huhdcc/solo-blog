@@ -10,6 +10,7 @@ huhdcc
 
 ### 最新
 
+* [Nginx-01-简介以及优点](https://www.huhdcc.top/articles/2019/09/08/1567943276878.html)
 * [支付demo篇（14）-支付小结](https://www.huhdcc.top/articles/2019/09/06/1567775557317.html)
 * [支付demo篇（13）-支付对接 -退款（2）](https://www.huhdcc.top/articles/2019/09/06/1567774079098.html)
 * [支付demo篇（11）-支付对接 - 统一支付回调（2）](https://www.huhdcc.top/articles/2019/09/06/1567771693628.html)
@@ -29,7 +30,6 @@ huhdcc
 * [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
 * [Mybatis分析（10）-加载对象包装器工厂objectWrapperFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567578967567.html)
 * [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
-* [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 
 ### 热门
 
@@ -51,11 +51,12 @@ huhdcc
 * [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [强迫症福音-去掉桌面图标小箭头](https://www.huhdcc.top/articles/2019/09/01/1567332948250.html)
 * [centos7 阿里云服务器安装mysql 配置远程访问](https://www.huhdcc.top/articles/2019/09/01/1567333062045.html)
+* [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [Mybatis分析（5）-属性解析settings](https://www.huhdcc.top/articles/2019/09/01/1567332399709.html)
-* [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
 
 ### 热议
 
+* [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
 * [Mybatis分析（7）-类型别名解析typeAliasesElement](https://www.huhdcc.top/articles/2019/09/01/1567332454979.html)
 * [Mybatis分析（8）-插件加载pluginElement](https://www.huhdcc.top/articles/2019/09/01/1567332481354.html)
 * [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
