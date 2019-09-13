@@ -10,6 +10,10 @@ huhdcc
 
 ### 最新
 
+* [java基础算法与常见数据结构（03）-数组基本排序算法](https://www.huhdcc.top/articles/2019/09/12/1568285025292.html)
+* [java基础算法与常见数据结构（02）-数组](https://www.huhdcc.top/articles/2019/09/12/1568283308014.html)
+* [java基础算法与常见数据结构（01）-介绍](https://www.huhdcc.top/articles/2019/09/12/1568282563142.html)
+* [Mybatis分析（16）-mapper加载与初始化](https://www.huhdcc.top/articles/2019/09/12/1568270237817.html)
 * [Mybatis分析（15）-加载mapper文件mapperElement](https://www.huhdcc.top/articles/2019/09/10/1568096313281.html)
 * [Mybatis分析（14）-加载类型处理器typeHandlerElement](https://www.huhdcc.top/articles/2019/09/10/1568094748542.html)
 * [Nginx-01-简介以及优点](https://www.huhdcc.top/articles/2019/09/08/1567943276878.html)
@@ -26,10 +30,6 @@ huhdcc
 * [支付demo篇（04）-支付对接 -支付宝APP支付](https://www.huhdcc.top/articles/2019/09/06/1567731789740.html)
 * [支付demo篇（03）-支付对接 -支付宝扫码支付](https://www.huhdcc.top/articles/2019/09/05/1567683276503.html)
 * [支付demo篇（02）-搭建支付服务基础](https://www.huhdcc.top/articles/2019/09/05/1567677421286.html)
-* [支付demo篇（01）-搭建支付服务](https://www.huhdcc.top/articles/2019/09/05/1567676411211.html)
-* [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
-* [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
-* [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
 
 ### 热门
 
@@ -70,6 +70,10 @@ huhdcc
 * [centos7 阿里云服务器docker安装redis](https://www.huhdcc.top/articles/2019/09/01/1567333194883.html)
 * [我在 GitHub 上的开源项目](https://www.huhdcc.top/my-github-repos)
 * [Mybatis分析（10）-加载对象包装器工厂objectWrapperFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567578967567.html)
+* [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
+* [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
+* [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
+* [支付demo篇（01）-搭建支付服务](https://www.huhdcc.top/articles/2019/09/05/1567676411211.html)
 
 ---
 
