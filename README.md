@@ -35,6 +35,7 @@ huhdcc
 
 * [Linux下搭建seafile（pro版）](https://www.huhdcc.top/articles/2019/09/01/1567333046208.html)
 * [jetbrains授权码](https://www.huhdcc.top/articles/2019/09/01/1567333010736.html)
+* [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [微信支付-退款操作（JAVA版）](https://www.huhdcc.top/articles/2019/09/01/1567332589167.html)
 * [centos7 阿里云服务器docker安装nexus3](https://www.huhdcc.top/articles/2019/09/01/1567333217431.html)
 * [定时任务CRON常用表达式收集](https://www.huhdcc.top/articles/2019/09/01/1567333245085.html)
@@ -51,7 +52,6 @@ huhdcc
 * [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [强迫症福音-去掉桌面图标小箭头](https://www.huhdcc.top/articles/2019/09/01/1567332948250.html)
 * [centos7 阿里云服务器安装mysql 配置远程访问](https://www.huhdcc.top/articles/2019/09/01/1567333062045.html)
-* [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 
 ### 热议
