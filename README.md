@@ -46,13 +46,13 @@ huhdcc
 * [Mybatis分析（2）-SqlSessionFactoryBuilder](https://www.huhdcc.top/articles/2019/09/01/1567332033694.html)
 * [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
 * [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
+* [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
 * [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
 * [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
 * [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
 * [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [强迫症福音-去掉桌面图标小箭头](https://www.huhdcc.top/articles/2019/09/01/1567332948250.html)
 * [centos7 阿里云服务器安装mysql 配置远程访问](https://www.huhdcc.top/articles/2019/09/01/1567333062045.html)
-* [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 
 ### 热议
 
@@ -60,7 +60,6 @@ huhdcc
 * [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
 * [Mybatis分析（7）-类型别名解析typeAliasesElement](https://www.huhdcc.top/articles/2019/09/01/1567332454979.html)
 * [Mybatis分析（8）-插件加载pluginElement](https://www.huhdcc.top/articles/2019/09/01/1567332481354.html)
-* [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
 * [JAVA8新特性lambda表达式（时间为空排序）](https://www.huhdcc.top/articles/2019/09/01/1567332821333.html)
 * [JAVA8新特性lambda表达式（操作两个List）](https://www.huhdcc.top/articles/2019/09/01/1567332862530.html)
 * [jdk环境变量一键配置](https://www.huhdcc.top/articles/2019/09/01/1567332905549.html)
@@ -69,6 +68,7 @@ huhdcc
 * [centos7 阿里云服务器docker安装mysql5.7](https://www.huhdcc.top/articles/2019/09/01/1567333172459.html)
 * [centos7 阿里云服务器docker安装redis](https://www.huhdcc.top/articles/2019/09/01/1567333194883.html)
 * [我在 GitHub 上的开源项目](https://www.huhdcc.top/my-github-repos)
+* [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 * [Mybatis分析（10）-加载对象包装器工厂objectWrapperFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567578967567.html)
 * [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
 * [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
