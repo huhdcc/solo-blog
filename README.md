@@ -40,6 +40,7 @@ huhdcc
 * [centos7 阿里云服务器docker安装nexus3](https://www.huhdcc.top/articles/2019/09/01/1567333217431.html)
 * [定时任务CRON常用表达式收集](https://www.huhdcc.top/articles/2019/09/01/1567333245085.html)
 * [Mybatis分析（9）-加载工厂对象objectFactoryElement](https://www.huhdcc.top/articles/2019/09/01/1567332498061.html)
+* [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [Maven清理批处理脚本](https://www.huhdcc.top/articles/2019/09/01/1567332969162.html)
 * [centos7阿里云服务器安装ssr](https://www.huhdcc.top/articles/2019/09/01/1567333137507.html)
 * [Mybatis分析（1）-SqlSessionFactory](https://www.huhdcc.top/articles/2019/09/01/1567331946937.html)
@@ -50,7 +51,6 @@ huhdcc
 * [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
 * [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
 * [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
-* [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
 * [强迫症福音-去掉桌面图标小箭头](https://www.huhdcc.top/articles/2019/09/01/1567332948250.html)
 * [centos7 阿里云服务器安装mysql 配置远程访问](https://www.huhdcc.top/articles/2019/09/01/1567333062045.html)
 
